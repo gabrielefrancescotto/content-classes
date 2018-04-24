@@ -286,6 +286,8 @@ Dipartimento
 Definizione OpenPA
 ------------------
 
+[da sistemare]
+
 .. _h3c36461272362165f1619273548a:
 
 Definizione OntoPiA
@@ -296,6 +298,8 @@ Riferimento COV-AP_IT:
 \ |LINK13|\ 
 
 Questa classe rappresenta una generica unità di supporto o unità/divisione dell'organizzazione. Un nome alternativo potrebbe essere anche Dipartimento. Essa, nel contesto italiano, si suddivide in due tipologie di unità di supporto: Area Organizzativa Omogena e Ufficio (unità organizzativa). Questa è una classe astratta istanziata nei dati con i due precedenti tipi.
+
+\ |IMG12|\ 
 
 .. _h22144ff6774f2e297f35665964214:
 
@@ -360,6 +364,8 @@ Riferimento COV-AP_IT:
 
 Questa classe rappresenta una generica unità di supporto o unità/divisione dell'organizzazione. Un nome alternativo potrebbe essere anche Dipartimento. Essa, nel contesto italiano, si suddivide in due tipologie di unità di supporto: Area Organizzativa Omogena e Ufficio (unità organizzativa). Questa è una classe astratta istanziata nei dati con i due precedenti tipi.
 
+\ |IMG13|\ 
+
 .. _h7b5a2f16754511d2a591214272a38:
 
 Bilancio
@@ -381,7 +387,7 @@ Riferimento COV-AP_IT:
 
 Questa classe rappresenta le principali informazioni sul bilancio dell'organizzazione quali per esempio l'anno di riferimento, l'ammontare totale e l'onere complessivo.
 
-\ |IMG12|\ 
+\ |IMG14|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -556,5 +562,13 @@ Le istanze in cui è attualmente in corso un pilota sono:
    :width: 432 px
 
 .. |IMG12| image:: static/Documentazione_12.png
+   :height: 408 px
+   :width: 516 px
+
+.. |IMG13| image:: static/Documentazione_13.png
+   :height: 117 px
+   :width: 584 px
+
+.. |IMG14| image:: static/Documentazione_14.png
    :height: 114 px
    :width: 376 px
