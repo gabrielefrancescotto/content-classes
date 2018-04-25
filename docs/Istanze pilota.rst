@@ -23,52 +23,9 @@ Classi coinvolte nella sperimentazione:
 
 * Servizio culturale
 
-..  Caution:: Riferimenti a Cultural-ON
+..  Attention:: 
 
-    A regime, saranno da rimuovere
-
-
-..  Danger:: Istituto della Cultura
-
-    Non va replicato, anzi va rimosso
-
-
-.. admonition:: Punto di contatto
-
-    va allineato alla nuova versione delle ontologie: SM-AP_IT
-
-
-.. admonition:: Sede
-
-    Per quanto riguarda la strutturazione dei dati relativi alla sede, è stata utilizzata sperimentalmente l’ontologia Cultural-ON
-
-
-.. admonition:: Orario
-
-    (da testare)
-
-
-.. code:: 
-
-    (content of code)
-
-
-.. code-block:: python
-    :linenos:
-
-    (content of code)
-
-
-..  Hint:: 
-
-    (content of Hint)
-
-
-.. name:: argument
-    :option: value
-    :option: value
-
-    content
+    Tutte queste classi fanno riferimento a Cultural-ON, quindi vanno riviste secondo la logica di OntoPiA
 
 .. _h2e5858454374b2d1d4c235610397e74:
 
