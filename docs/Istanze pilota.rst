@@ -24,9 +24,19 @@ Classi coinvolte nella sperimentazione:
 * Servizio culturale
 
 
+.. admonition:: Punto di contatto
+
+    (va allineato alla nuova versione delle ontologie: SM-AP_IT)
+
+
 .. admonition:: Sede
 
     Per quanto riguarda la strutturazione dei dati relativi alla sede, è stata utilizzata sperimentalmente l’ontologia Cultural-ON
+
+
+.. admonition:: Orario
+
+    (da testare)
 
 .. _h2e5858454374b2d1d4c235610397e74:
 
