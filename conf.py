@@ -1,9 +1,33 @@
 # -*- coding: utf-8 -*-
 
 from __future__ import unicode_literals
+
+# -- PROJECT Variables ----------------------------------------------------
+settings_project_name = "Manuale Classi di contenuto"
+settings_copyright_copyleft = 'Opencontent'
+settings_editor_name = 'Opencontent'
+settings_doc_version = 'version: latest'
+settings_doc_release = 'version: latest'
+settings_basename = 'manuale-classi-contenuto'
+settings_file_name = 'manuale-classi-contenuto'
+
 import sys, os
 
+
+from recommonmark.transform import AutoStructify
+from recommonmark.parser import CommonMarkParser
+
+# -- RTD configuration ------------------------------------------------
+
+# on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+
+# This is used for linking and such so we link to the thing we're building
+rtd_version = os.environ.get('READTHEDOCS_VERSION', 'latest')
+if rtd_version not in ['stable', 'latest']:
+    rtd_version = 'stable'
+
+rtd_project = os.environ.get('READTHEDOCS_PROJECT', '')
 
 sys.path.append(os.path.abspath(os.pardir))
 
