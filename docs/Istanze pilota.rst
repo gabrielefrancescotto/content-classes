@@ -38,6 +38,29 @@ Classi coinvolte nella sperimentazione:
 
     (da testare)
 
+
+.. code:: 
+
+    (content of code)
+
+
+.. code-block:: python
+    :linenos:
+
+    (content of code)
+
+
+..  Hint:: 
+
+    (content of Hint)
+
+
+.. name:: argument
+    :option: value
+    :option: value
+
+    content
+
 .. _h2e5858454374b2d1d4c235610397e74:
 
 Portale Trentino Famiglia (Agenzia per la Famiglia della Provincia autonoma di Trento)
