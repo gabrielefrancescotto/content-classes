@@ -23,18 +23,22 @@ Classi coinvolte nella sperimentazione:
 
 * Servizio culturale
 
+..  Caution:: Riferimenti a Cultural-ON
 
-.. error:: Punto di contatto
-
-    (va allineato alla nuova versione delle ontologie: SM-AP_IT)
-
-
-.. warning:: Sede
-
-    Per quanto riguarda la strutturazione dei dati relativi alla sede, è stata utilizzata sperimentalmente l’ontologia Cultural-ON
+    A regime, saranno da rimuovere
 
 
-.. Warning:: Sede
+..  Danger:: Istituto della Cultura
+
+    Non va replicato, anzi va rimosso
+
+
+.. admonition:: Punto di contatto
+
+    va allineato alla nuova versione delle ontologie: SM-AP_IT
+
+
+.. admonition:: Sede
 
     Per quanto riguarda la strutturazione dei dati relativi alla sede, è stata utilizzata sperimentalmente l’ontologia Cultural-ON
 
