@@ -2,17 +2,7 @@
 .. _h516a7a2b521825383a3b2b721a727622:
 
 Classi di contenuto per i portali istituzionali
-###############################################
-
-.. _h78a33336b592d213d5a132759492a5f:
-
-Verso OntoPiA
-#############
-
-.. _h2f65316220271965446c384555203553:
-
-Introduzione
-************
+***********************************************
 
 .. _h4260697c445014a77736b6b1415d1b:
 
@@ -71,7 +61,7 @@ I microservizi di \ |LINK3|\  utilizzano le API di questo middleware per:
 
 \ |IMG5|\ 
 
-Un esempio concreto di micro-servizio che sfrutta questo paradigma è OpenAgenda.
+Un esempio concreto di micro-servizio che sfrutta questo paradigma è \ |LINK5|\ .
 
 \ |IMG6|\ 
 
@@ -108,6 +98,10 @@ Un esempio concreto di micro-servizio che sfrutta questo paradigma è OpenAgenda
 .. |LINK4| raw:: html
 
     <a href="http://ontopa.opencontent.it/api/opendata/v2/content/search/classes%20%5Bclassificazione_del_territorio%5D" target="_blank">questa libreria</a>
+
+.. |LINK5| raw:: html
+
+    <a href="http://manuale-openagenda.readthedocs.io/" target="_blank">OpenAgenda</a>
 
 
 .. |IMG1| image:: static/Introduzione_1.png
