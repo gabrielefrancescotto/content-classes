@@ -4,7 +4,7 @@
 Organizzazioni (COV-AP_IT)
 **************************
 
-Classi di contenuto che 
+Classi di contenuto utilizzate per gestire le organizzazioni.
 
 .. _h7d7047805a12f41454034755c375870:
 
@@ -24,6 +24,8 @@ Riferimento COV-AP_IT:
 \ |LINK1|\ 
 
 Questa è la classe che rappresenta un'organizzazione, sia essa pubblica che privata, tipicamente registrata all'interno di un registro pubblico (e.g., indice della PA per le pubbliche amministrazioni, registro imprese per le organizzazioni private). Esempio "Agenzia per l'Italia Digitale", "Comune di Bologna", "TELECOM ITALIA SPA O TIM S.P.A."
+
+Proprietà previste dal modello:
 
 \ |IMG1|\ 
 
@@ -274,7 +276,7 @@ Questa classe rappresenta una generica unità di supporto o unità/divisione del
 
 .. |STYLE8| replace:: **Descrizione**
 
-.. |STYLE9| replace:: **Datatype**
+.. |STYLE9| replace:: **Tipo di dato**
 
 .. |STYLE10| replace:: **Obb.**
 
