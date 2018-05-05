@@ -1,6 +1,6 @@
-########################################################
-Classi di contenuto per l'informazione pubblica della PA
-########################################################
+###############################################
+Classi di contenuto per l'informazione pubblica
+###############################################
 
 Tutte le applicazioni web che Opencontent offre agli enti pubblici sono basate su OpenPA, un framework che gestisce informazioni strutturate secondo il paradigma delle classi di contenuto.
 
@@ -11,6 +11,12 @@ L'obiettivo di questo manuale è documentare la progressiva evoluzione delle cla
 * allineare automaticamente tutti gli enti che adottano OpenPA al modello.
 
 \ |IMG5|\ 
+
+..  Hint:: 
+
+    La documentazione è in ancora in fase di stesura.
+    
+    
 
 .. |IMG5| image:: docs/static/Introduzione_5.png
    :height: 481 px
