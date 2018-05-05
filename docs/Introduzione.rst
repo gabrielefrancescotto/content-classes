@@ -23,7 +23,7 @@ I sistemi informativi che \ |LINK1|\  mette a disposizione degli Enti Pubblici (
 
 \ |IMG1|\ 
 
-Il modello dati della piattaforma si basa sul concetto di \ |STYLE0|\  (\ |STYLE1|\ ), che di fatto gestiscono in forma strutturata le informazioni dei siti web e dei microservizi (come OpenAgenda); questo approccio offre numerosi vantaggi alle PA, quali:
+Il modello dati della piattaforma si basa sul concetto di \ |STYLE0|\  (\ |STYLE1|\ ), che di fatto gestiscono in forma strutturata le informazioni dei siti web e dei micro-servizi (come OpenAgenda); questo approccio offre numerosi vantaggi alle PA, quali:
 
 * una maggior compatibilità con la \ |STYLE2|\ , per la quale è essenziale che il contenuto sia completamente separato dalla forma
 
@@ -32,6 +32,8 @@ Il modello dati della piattaforma si basa sul concetto di \ |STYLE0|\  (\ |STYLE
 * rendere qualsiasi tipo di dato disponibile via \ |STYLE5|\ , con benefici conseguenti in termini di interoperabilità e generazione di dataset di alta qualità, aggiornati in tempo reale.
 
 Ogni volta che un ente pubblico decide di dotarsi di questa piattaforma, viene generata una nuova istanza dedicata, con un database indipendente; al 31/12/2017, il numero di istanze di OpenPA erano oltre 300 e le richieste di adesione continuano a crescere.
+
+\ |IMG2|\ 
 
 .. _h6c295c4f51c7b13942f593e4f2a46:
 
@@ -42,13 +44,13 @@ Non essendo stato individuato un modello dati di riferimento in grado di mappare
 
 Per garantire che le strutture dati rimangano tra loro allineate nel corso del tempo, è stato predisposto un tool (C&CAF, classes & content alignment framework) che consente di far evolvere le classi di contenuto e al tempo stesso mantenere l’allineamento con le istanze precedentemente attivate.
 
-\ |IMG2|\ 
+\ |IMG3|\ 
 
 Pur essendo un modello dati consolidato ed utilizzato da un numero elevato di enti con analoghe esigenze, basato su oltre 250 classi di contenuto, un Ente particolarmente strutturato può manifestare la necessità di gestire nuove tipologie di dati strutturati, richiedendo pertanto una modifica al modello dati, che comporta in particolare la creazione di nuove classi di contenuto o una maggior specializzazione di classi esistenti. 
 
 In accordo con l’Ente, viene aperta una \ |STYLE6|\ , che comporta l’isolamento dell’istanza dal sistema di allineamento automatico. Vengono quindi predisposte le nuove classi di contenuto e sottoposte ai redattori dell’Ente, quindi via via affinate fino a che danno prova di rispondere alle esigenze e alle aspettative. Una volta collaudata, la modifica viene portata in produzione nel repository centrale che tiene in ordine il modello definitivo, quindi applicata automaticamente a tutte le istanze esistenti.
 
-\ |IMG3|\ 
+\ |IMG4|\ 
 
 .. _h7f3d1c4f9676b1d376be7d297f133:
 
@@ -67,8 +69,11 @@ I microservizi di \ |LINK3|\  utilizzano le API di questo middleware per:
 
 * vincolare l'inserimento dei dati ai vocabolari controllati. Ad esempio, l'interfaccia di inserimento dell'indirizzo di un istituto o luogo della cultura, presente in OpenAgenda, utilizza \ |LINK4|\ .
 
-\ |IMG4|\ 
+\ |IMG5|\ 
 
+Un esempio concreto di micro-servizio che sfrutta questo paradigma è OpenAgenda.
+
+\ |IMG6|\ 
 
 .. bottom of content
 
@@ -110,13 +115,21 @@ I microservizi di \ |LINK3|\  utilizzano le API di questo middleware per:
    :width: 642 px
 
 .. |IMG2| image:: static/Introduzione_2.png
-   :height: 461 px
+   :height: 465 px
    :width: 642 px
 
 .. |IMG3| image:: static/Introduzione_3.png
-   :height: 500 px
+   :height: 461 px
    :width: 642 px
 
 .. |IMG4| image:: static/Introduzione_4.png
+   :height: 500 px
+   :width: 642 px
+
+.. |IMG5| image:: static/Introduzione_5.png
    :height: 481 px
+   :width: 642 px
+
+.. |IMG6| image:: static/Introduzione_6.png
+   :height: 477 px
    :width: 642 px
