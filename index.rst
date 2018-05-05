@@ -23,3 +23,4 @@ Classi di contenuto per i portali istituzionali della PA
    docs/Unità di misura (MU-AP_IT).rst
    docs/Altre classi.rst
    docs/Internet of Things (IoT-AP_IT).rst
+   docs/Vocabolari controllati.rst
