@@ -1,27 +1,15 @@
 /* Examples on GitHub */
 
-h1 {
-    font-size: 232%;
-}
-.rst-content .admonition-examples-on-github {
-  background-color: #dbfaf4 !important;
-  padding-bottom: 1px !important;
-}
-
-.rst-content .admonition-examples-on-github .admonition-title {
-  background-color: #1abc9c !important;
-}
-
-.rst-content .admonition-examples-on-github .admonition-title:before {
-  content:url('https://docs.hunter.sh/thirdpartylogos/octocat-16x16.png');
-}
-
-/* Examples on GitHub */
-.rst-content .admonition-github {
-  background-color: #dbfaf4 !important;
-  padding-bottom: 1px !important;
-}
-
-.rst-content .admonition-github .admonition-title {
-  background-color: #1abc9c !important;
+.wy-side-nav-search {
+    display: block;
+    width: 300px;
+    padding: .809em;
+    margin-bottom: .809em;
+    z-index: 200;
+    background-color: #FF6300;
+    text-align: center;
+    padding: .809em;
+    display: block;
+    color: #fcfcfc;
+    margin-bottom: .809em;
 }
