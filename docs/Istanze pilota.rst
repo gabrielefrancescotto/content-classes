@@ -25,7 +25,7 @@ Classi coinvolte nella sperimentazione:
 
 ..  Attention:: 
 
-    Tutte queste classi fanno riferimento a Cultural-ON, quindi vanno riviste secondo la logica di OntoPiA
+    Tutte queste classi fanno riferimento a Cultural-ON; vanno riviste secondo la logica di OntoPiA
 
 .. _h2e5858454374b2d1d4c235610397e74:
 
