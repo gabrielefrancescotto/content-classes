@@ -1,8 +1,12 @@
 ########################################################
-Classi di contenuto per i portali istituzionali della PA
+Classi di contenuto per l'informazione pubblica della PA
 ########################################################
 
+Tutte le applicazioni web che Opencontent offre agli enti pubblici sono basate su OpenPA, un framework che gestisce informazioni strutturate secondo il paradigma delle classi di contenuto.
 
+L'obiettivo di questo manuale è documentare la progressiva evoluzione delle classi di contenuto, con un duplice obiettivo:
+* strutturare i dati secondo ontologie e vocabolari controllari definiti da AgID
+* allineare automaticamente tutti gli enti che adottano OpenPA al modello.
 
 
 .. toctree::
