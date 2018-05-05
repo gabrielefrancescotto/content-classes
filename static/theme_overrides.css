@@ -22,3 +22,10 @@
 h1, h2, h3 {
     color: #ff5a00 !important;
 }
+.wy-nav-content {
+    margin: 0;
+    background: #fff;
+}
+.wy-table-responsive table td, .wy-table-responsive table th {
+    white-space: inherit;
+}
