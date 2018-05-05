@@ -13,3 +13,8 @@
     color: #fcfcfc;
     margin-bottom: .809em;
 }
+
+.btn-neutral {
+    background-color: #ff5a00 !important;
+    color: #fff !important;
+}
