@@ -1,7 +1,7 @@
 
-.. _h02c2336422b7911641b7c3e255348:
+.. _h30107144b58466d1039127a2a192e56:
 
-Punti di contatti (SM-AP_IT)
+Punti di contatto (SM-AP_IT)
 ****************************
 
 Da completare
