@@ -37,3 +37,7 @@ footer {
 .btn {
     color: #fff;
 }
+
+div.ethical-sidebar, div.ethical-footer {
+    display: none;
+}
