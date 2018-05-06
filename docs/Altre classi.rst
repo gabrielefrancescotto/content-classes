@@ -9,17 +9,11 @@ Altre classi
 Ruolo nel tempo
 ===============
 
-.. _h7d642768304372716448382054487838:
-
-Definizione OpenPA
-------------------
+\ |STYLE0|\ 
 
 Mancante, da fare
 
-.. _h3c36461272362165f1619273548a:
-
-Definizione OntoPiA
--------------------
+\ |STYLE1|\ 
 
 Riferimento COV-AP_IT:
 
@@ -34,17 +28,11 @@ Rappresentazione di un ruolo associato ad un intervallo temporale determinato.
 Ruolo
 =====
 
-.. _h7d642768304372716448382054487838:
+\ |STYLE2|\ 
 
-Definizione OpenPA
-------------------
+Da documentare
 
-Da rivedere… di fatto non ancora usato
-
-.. _h3c36461272362165f1619273548a:
-
-Definizione OntoPiA
--------------------
+\ |STYLE3|\ 
 
 Riferimento COV-AP_IT:
 
@@ -59,17 +47,11 @@ Questa classe è definita in http://dati.gov.it/onto/roapit/ e, in questa ontolo
 Appartenenza
 ============
 
-.. _h7d642768304372716448382054487838:
-
-Definizione OpenPA
-------------------
+\ |STYLE4|\ 
 
 Mancante, da fare
 
-.. _h3c36461272362165f1619273548a:
-
-Definizione OntoPiA
--------------------
+\ |STYLE5|\ 
 
 Riferimento COV-AP_IT:
 
@@ -84,24 +66,13 @@ Questa classe rappresenta la natura di appartenenza di un agente di un'organizza
 Evento di cambiamento
 =====================
 
-.. _h7d642768304372716448382054487838:
-
-Definizione OpenPA
-------------------
+\ |STYLE6|\ 
 
 Mancante, da fare
 
-.. _h6765729b4c61241e217220a47456c:
+Esempio di applicazione: Le organizzazioni private di Trentino Famiglia cambiano nome nel corso del tempo; come gestire questo cambiamento?
 
-Problema da risolvere
----------------------
-
-Le organizzazioni private di Trentino Famiglia cambiano nome nel corso del tempo; come gestire questo cambiamento?
-
-.. _h3c36461272362165f1619273548a:
-
-Definizione OntoPiA
--------------------
+\ |STYLE7|\ 
 
 Riferimento COV-AP_IT:
 
@@ -113,6 +84,23 @@ Organizzazioni sono formate o cambiano in risposta ad eventi. Questo potrebbe es
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **Definizione OpenPA**
+
+.. |STYLE1| replace:: **Definizione OntoPiA**
+
+.. |STYLE2| replace:: **Definizione OpenPA**
+
+.. |STYLE3| replace:: **Definizione OntoPiA**
+
+.. |STYLE4| replace:: **Definizione OpenPA**
+
+.. |STYLE5| replace:: **Definizione OntoPiA**
+
+.. |STYLE6| replace:: **Definizione OpenPA**
+
+.. |STYLE7| replace:: **Definizione OntoPiA**
 
 
 .. |LINK1| raw:: html
