@@ -232,11 +232,11 @@ Proposta CORE PUBLIC EVENT VOCABULARY
 
 
 .. |IMG1| image:: static/Eventi_pubblici_(CPEV-AP_IT)_1.png
-   :height: 282 px
+   :height: 356 px
    :width: 642 px
 
 .. |IMG2| image:: static/Eventi_pubblici_(CPEV-AP_IT)_2.png
-   :height: 221 px
+   :height: 321 px
    :width: 642 px
 
 .. |IMG3| image:: static/Eventi_pubblici_(CPEV-AP_IT)_3.png
