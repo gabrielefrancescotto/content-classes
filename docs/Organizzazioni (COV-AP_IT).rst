@@ -104,11 +104,9 @@ Associazione
 
 \ |STYLE8|\ 
 
-\ |STYLE9|\ 
+Utilizzata per gestire il profilo delle associazioni di OpenAgenda.
 
-Utilizzata per gestire tutte le organizzazioni private, iscritte al registro imprese.
-
-Identificativo della classe: \ |STYLE10|\ 
+Identificativo della classe: \ |STYLE9|\ 
 
 Proprietà della classe:
 
@@ -124,7 +122,7 @@ Vocabolari controllati
 
 * Comuni: fa riferimento alle “Classificazioni del territorio”: http://ontopa.opencontent.it/API-Vocabolari-controllati/Classificazioni-del-territorio
 
-\ |STYLE11|\ 
+\ |STYLE10|\ 
 
 Vedi organizzazione privata.
 
@@ -133,17 +131,13 @@ Vedi organizzazione privata.
 Dipartimento
 ============
 
-.. _h7d642768304372716448382054487838:
+\ |STYLE11|\ 
 
-Definizione OpenPA
-------------------
+..  Attention:: 
 
-[da sistemare]
+    da documentare
 
-.. _h3c36461272362165f1619273548a:
-
-Definizione OntoPiA
--------------------
+\ |STYLE12|\ 
 
 Riferimento COV-AP_IT:
 
@@ -158,15 +152,13 @@ Questa classe rappresenta una generica unità di supporto o unità/divisione del
 Area
 ====
 
-.. _h7d642768304372716448382054487838:
+\ |STYLE13|\ 
 
-Definizione OpenPA
-------------------
+..  Attention:: 
 
-.. _h3c36461272362165f1619273548a:
+    da documentare
 
-Definizione OntoPiA
--------------------
+\ |STYLE14|\ 
 
 Riferimento COV-AP_IT:
 
@@ -179,15 +171,13 @@ Questa classe rappresenta una generica unità di supporto o unità/divisione del
 Servizio (struttura organizzativa)
 ==================================
 
-.. _h7d642768304372716448382054487838:
+\ |STYLE15|\ 
 
-Definizione OpenPA
-------------------
+..  Attention:: 
 
-.. _h3c36461272362165f1619273548a:
+    da documentare
 
-Definizione OntoPiA
--------------------
+\ |STYLE16|\ 
 
 Riferimento COV-AP_IT:
 
@@ -200,15 +190,13 @@ Questa classe rappresenta una generica unità di supporto o unità/divisione del
 Ufficio
 =======
 
-.. _h7d642768304372716448382054487838:
+\ |STYLE17|\ 
 
-Definizione OpenPA
-------------------
+..  Attention:: 
 
-.. _h3c36461272362165f1619273548a:
+    da documentare
 
-Definizione OntoPiA
--------------------
+\ |STYLE18|\ 
 
 Riferimento COV-AP_IT:
 
@@ -240,11 +228,25 @@ Questa classe rappresenta una generica unità di supporto o unità/divisione del
 
 .. |STYLE8| replace:: **Definizione OpenPA**
 
-.. |STYLE9| replace:: **Definizione OpenPA**
+.. |STYLE9| replace:: *associazione*
 
-.. |STYLE10| replace:: *associazione*
+.. |STYLE10| replace:: **Definizione OntoPiA**
 
-.. |STYLE11| replace:: **Definizione OntoPiA**
+.. |STYLE11| replace:: **Definizione OpenPA**
+
+.. |STYLE12| replace:: **Definizione OntoPiA**
+
+.. |STYLE13| replace:: **Definizione OpenPA**
+
+.. |STYLE14| replace:: **Definizione OntoPiA**
+
+.. |STYLE15| replace:: **Definizione OpenPA**
+
+.. |STYLE16| replace:: **Definizione OntoPiA**
+
+.. |STYLE17| replace:: **Definizione OpenPA**
+
+.. |STYLE18| replace:: **Definizione OntoPiA**
 
 
 .. |LINK1| raw:: html
