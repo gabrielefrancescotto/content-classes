@@ -124,6 +124,7 @@ Eventi pubblici (CPEV-AP_IT)
     
     * Punto di contatto (principale dell’evento)
     
+    * Articolo (news, approfondimento)
 
 
 .. bottom of content
