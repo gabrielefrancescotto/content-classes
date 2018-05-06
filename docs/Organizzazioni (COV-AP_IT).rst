@@ -221,12 +221,12 @@ Questa classe rappresenta una generica unità di supporto o unità/divisione del
 
 .. |REPLACE1| raw:: html
 
-    <iframe src="http://ontopa.opencontent.it/layout/set/print/openpa/classes/private_organization" width="600" height="400">
+    <iframe src="http://ontopa.opencontent.it/layout/set/print/openpa/classes/private_organization" width="900" height="600">
       <p>Your browser does not support iframes.</p>
     </iframe>
 .. |REPLACE2| raw:: html
 
-    <iframe src="http://ontopa.opencontent.it/layout/set/print/openpa/classes/private_organization" width="100%" height="100%">
+    <iframe src="http://ontopa.opencontent.it/layout/set/print/openpa/relations/private_organization" width="900" height="600">
       <p>Your browser does not support iframes.</p>
     </iframe>
 
