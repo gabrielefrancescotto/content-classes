@@ -126,6 +126,16 @@ Eventi pubblici (CPEV-AP_IT)
     
     * Articolo (news, approfondimento)
 
+.. _h5e5bd216a61325a7f6a772520657725:
+
+Proposta CORE PUBLIC EVENT VOCABULARY
+=====================================
+
+\ |IMG1|\ 
+
+\ |IMG2|\ 
+
+\ |IMG3|\ 
 
 .. bottom of content
 
@@ -215,3 +225,15 @@ Eventi pubblici (CPEV-AP_IT)
 
     <a href="http://ontopa.opencontent.it/API-Vocabolari-controllati/Tipologie-di-eventi-pubblici" target="_blank">http://ontopa.opencontent.it/API-Vocabolari-controllati/Tipologie-di-eventi-pubblici</a>
 
+
+.. |IMG1| image:: static/Eventi_pubblici_(CPEV-AP_IT)_1.png
+   :height: 282 px
+   :width: 642 px
+
+.. |IMG2| image:: static/Eventi_pubblici_(CPEV-AP_IT)_2.png
+   :height: 221 px
+   :width: 642 px
+
+.. |IMG3| image:: static/Eventi_pubblici_(CPEV-AP_IT)_3.png
+   :height: 362 px
+   :width: 642 px
