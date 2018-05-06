@@ -65,6 +65,8 @@ Utilizzata per gestire tutte le organizzazioni private, iscritte al registro imp
 
 Identificativo della classe: \ |STYLE6|\ 
 
+|REPLACE1|
+
 
     <iframe src="http://ontopa.opencontent.it/openpa/classes/private_organization" width="600" height="600">
       <p>Your browser does not support iframes.</p>
@@ -220,6 +222,12 @@ Questa classe rappresenta una generica unità di supporto o unità/divisione del
 
 .. |STYLE9| replace:: **Definizione OntoPiA**
 
+
+.. |REPLACE1| raw:: html
+
+    <iframe src="http://ontopa.opencontent.it/openpa/classes/private_organization" width="600" height="600">
+      <p>Your browser does not support iframes.</p>
+    </iframe>
 
 .. |LINK1| raw:: html
 
