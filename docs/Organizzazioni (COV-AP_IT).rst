@@ -65,17 +65,13 @@ Utilizzata per gestire tutte le organizzazioni private, iscritte al registro imp
 
 Identificativo della classe: \ |STYLE6|\ 
 
+Proprietà della classe:
+
 |REPLACE1|
 
+Relazioni della classe:
 
-    <iframe src="http://ontopa.opencontent.it/openpa/classes/private_organization" width="600" height="600">
-      <p>Your browser does not support iframes.</p>
-    </iframe>
-
-
-    <iframe src="http://ontopa.opencontent.it/openpa/relations/private_organization" width="600" height="600">
-      <p>Your browser does not support iframes.</p>
-    </iframe>
+|REPLACE2|
 
 Esempio di istanza:
 
@@ -225,7 +221,12 @@ Questa classe rappresenta una generica unità di supporto o unità/divisione del
 
 .. |REPLACE1| raw:: html
 
-    <iframe src="http://ontopa.opencontent.it/openpa/classes/private_organization" width="600" height="600">
+    <iframe src="http://ontopa.opencontent.it/layout/set/print/openpa/classes/private_organization" width="100%" height="100%">
+      <p>Your browser does not support iframes.</p>
+    </iframe>
+.. |REPLACE2| raw:: html
+
+    <iframe src="http://ontopa.opencontent.it/layout/set/print/openpa/classes/private_organization" width="100%" height="100%">
       <p>Your browser does not support iframes.</p>
     </iframe>
 
