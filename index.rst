@@ -34,6 +34,7 @@ L'obiettivo di questo manuale è documentare la progressiva evoluzione delle cla
    docs/Persone (CPV-AP_IT).rst
    docs/Prezzi e offerte (POT-AP_IT).rst
    docs/Punti di contatti (SM-AP_IT).rst
+   docs/Servizi pubblici (CPSV-AP_IT).rst
    docs/Ruoli (RO-AP_IT).rst
    docs/Strutture ricettive (ACCO-AP_IT).rst
    docs/Tempo (TI-AP_IT).rst
