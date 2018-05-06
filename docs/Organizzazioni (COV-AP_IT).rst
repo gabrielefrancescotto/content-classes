@@ -67,19 +67,25 @@ Identificativo della classe: \ |STYLE6|\
 
 Proprietà della classe:
 
-|REPLACE1|
+\ |IMG3|\ 
 
 Relazioni della classe:
 
-|REPLACE2|
+\ |IMG4|\ 
+
+Vocabolari controllati
+
+* Forma giuridica: \ |LINK4|\ 
+
+* Comuni: fa riferimento alle “Classificazioni del territorio”: http://ontopa.opencontent.it/API-Vocabolari-controllati/Classificazioni-del-territorio
 
 Esempio di istanza:
 
-\ |LINK4|\ 
+\ |LINK5|\ 
 
 Note:
 
-* Punto di contatto è definito da una risorsa esterna: \ |LINK5|\ 
+* Punto di contatto è definito da una risorsa esterna: \ |LINK6|\ 
 
 \ |STYLE7|\ 
 
@@ -87,9 +93,9 @@ Questa classe rappresenta un'organizzazione privata ufficialmente registrata pre
 
 Riferimento COV-AP_IT:
 
-\ |LINK6|\ 
+\ |LINK7|\ 
 
-\ |IMG3|\ 
+\ |IMG5|\ 
 
 .. _h4b54463f647b7d435f207f4b3768:
 
@@ -98,9 +104,27 @@ Associazione
 
 \ |STYLE8|\ 
 
-Riferimento:
-
 \ |STYLE9|\ 
+
+Utilizzata per gestire tutte le organizzazioni private, iscritte al registro imprese.
+
+Identificativo della classe: \ |STYLE10|\ 
+
+Proprietà della classe:
+
+\ |IMG6|\ 
+
+Relazioni della classe:
+
+\ |IMG7|\ 
+
+Vocabolari controllati
+
+* Forma giuridica: \ |LINK8|\ 
+
+* Comuni: fa riferimento alle “Classificazioni del territorio”: http://ontopa.opencontent.it/API-Vocabolari-controllati/Classificazioni-del-territorio
+
+\ |STYLE11|\ 
 
 Vedi organizzazione privata.
 
@@ -123,11 +147,11 @@ Definizione OntoPiA
 
 Riferimento COV-AP_IT:
 
-\ |LINK7|\ 
+\ |LINK9|\ 
 
 Questa classe rappresenta una generica unità di supporto o unità/divisione dell'organizzazione. Un nome alternativo potrebbe essere anche Dipartimento. Essa, nel contesto italiano, si suddivide in due tipologie di unità di supporto: Area Organizzativa Omogena e Ufficio (unità organizzativa). Questa è una classe astratta istanziata nei dati con i due precedenti tipi.
 
-\ |IMG4|\ 
+\ |IMG8|\ 
 
 .. _h22144ff6774f2e297f35665964214:
 
@@ -146,7 +170,7 @@ Definizione OntoPiA
 
 Riferimento COV-AP_IT:
 
-\ |LINK8|\ 
+\ |LINK10|\ 
 
 Questa classe rappresenta una generica unità di supporto o unità/divisione dell'organizzazione. Un nome alternativo potrebbe essere anche Dipartimento. Essa, nel contesto italiano, si suddivide in due tipologie di unità di supporto: Area Organizzativa Omogena e Ufficio (unità organizzativa). Questa è una classe astratta istanziata nei dati con i due precedenti tipi.
 
@@ -167,7 +191,7 @@ Definizione OntoPiA
 
 Riferimento COV-AP_IT:
 
-\ |LINK9|\ 
+\ |LINK11|\ 
 
 Questa classe rappresenta una generica unità di supporto o unità/divisione dell'organizzazione. Un nome alternativo potrebbe essere anche Dipartimento. Essa, nel contesto italiano, si suddivide in due tipologie di unità di supporto: Area Organizzativa Omogena e Ufficio (unità organizzativa). Questa è una classe astratta istanziata nei dati con i due precedenti tipi.
 
@@ -188,11 +212,11 @@ Definizione OntoPiA
 
 Riferimento COV-AP_IT:
 
-\ |LINK10|\ 
+\ |LINK12|\ 
 
 Questa classe rappresenta una generica unità di supporto o unità/divisione dell'organizzazione. Un nome alternativo potrebbe essere anche Dipartimento. Essa, nel contesto italiano, si suddivide in due tipologie di unità di supporto: Area Organizzativa Omogena e Ufficio (unità organizzativa). Questa è una classe astratta istanziata nei dati con i due precedenti tipi.
 
-\ |IMG5|\ 
+\ |IMG9|\ 
 
 
 .. bottom of content
@@ -216,19 +240,12 @@ Questa classe rappresenta una generica unità di supporto o unità/divisione del
 
 .. |STYLE8| replace:: **Definizione OpenPA**
 
-.. |STYLE9| replace:: **Definizione OntoPiA**
+.. |STYLE9| replace:: **Definizione OpenPA**
 
+.. |STYLE10| replace:: *associazione*
 
-.. |REPLACE1| raw:: html
+.. |STYLE11| replace:: **Definizione OntoPiA**
 
-    <iframe src="http://ontopa.opencontent.it/layout/set/print/openpa/classes/private_organization" width="900" height="600">
-      <p>Your browser does not support iframes.</p>
-    </iframe>
-.. |REPLACE2| raw:: html
-
-    <iframe src="http://ontopa.opencontent.it/layout/set/print/openpa/relations/private_organization" width="900" height="600">
-      <p>Your browser does not support iframes.</p>
-    </iframe>
 
 .. |LINK1| raw:: html
 
@@ -244,15 +261,15 @@ Questa classe rappresenta una generica unità di supporto o unità/divisione del
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.trentinofamiglia.it/openpa/classes/private_organization" target="_blank">https://www.trentinofamiglia.it/openpa/classes/private_organization</a>
+    <a href="http://ontopa.opencontent.it/API-Vocabolari-controllati/Forma-giuridica-delle-organizzazioni" target="_blank">http://ontopa.opencontent.it/API-Vocabolari-controllati/Forma-giuridica-delle-organizzazioni</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati/blob/master/Ontologie/COV/v0.10/COV-AP_IT.rdf#L1779" target="_blank">https://github.com/italia/daf-ontologie-vocabolari-controllati/blob/master/Ontologie/COV/v0.10/COV-AP_IT.rdf#L1779</a>
+    <a href="https://www.trentinofamiglia.it/openpa/classes/private_organization" target="_blank">https://www.trentinofamiglia.it/openpa/classes/private_organization</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/COV/v0.10" target="_blank">https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/COV/v0.10</a>
+    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati/blob/master/Ontologie/COV/v0.10/COV-AP_IT.rdf#L1779" target="_blank">https://github.com/italia/daf-ontologie-vocabolari-controllati/blob/master/Ontologie/COV/v0.10/COV-AP_IT.rdf#L1779</a>
 
 .. |LINK7| raw:: html
 
@@ -260,13 +277,21 @@ Questa classe rappresenta una generica unità di supporto o unità/divisione del
 
 .. |LINK8| raw:: html
 
-    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/COV/v0.10" target="_blank">https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/COV/v0.10</a>
+    <a href="http://ontopa.opencontent.it/API-Vocabolari-controllati/Forma-giuridica-delle-organizzazioni" target="_blank">http://ontopa.opencontent.it/API-Vocabolari-controllati/Forma-giuridica-delle-organizzazioni</a>
 
 .. |LINK9| raw:: html
 
     <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/COV/v0.10" target="_blank">https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/COV/v0.10</a>
 
 .. |LINK10| raw:: html
+
+    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/COV/v0.10" target="_blank">https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/COV/v0.10</a>
+
+.. |LINK11| raw:: html
+
+    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/COV/v0.10" target="_blank">https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/COV/v0.10</a>
+
+.. |LINK12| raw:: html
 
     <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/COV/v0.10" target="_blank">https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/COV/v0.10</a>
 
@@ -280,13 +305,29 @@ Questa classe rappresenta una generica unità di supporto o unità/divisione del
    :width: 610 px
 
 .. |IMG3| image:: static/Organizzazioni_(COV-AP_IT)_3.png
+   :height: 1145 px
+   :width: 642 px
+
+.. |IMG4| image:: static/Organizzazioni_(COV-AP_IT)_4.png
+   :height: 837 px
+   :width: 642 px
+
+.. |IMG5| image:: static/Organizzazioni_(COV-AP_IT)_5.png
    :height: 164 px
    :width: 597 px
 
-.. |IMG4| image:: static/Organizzazioni_(COV-AP_IT)_4.png
+.. |IMG6| image:: static/Organizzazioni_(COV-AP_IT)_6.png
+   :height: 1524 px
+   :width: 642 px
+
+.. |IMG7| image:: static/Organizzazioni_(COV-AP_IT)_7.png
+   :height: 1062 px
+   :width: 642 px
+
+.. |IMG8| image:: static/Organizzazioni_(COV-AP_IT)_8.png
    :height: 408 px
    :width: 516 px
 
-.. |IMG5| image:: static/Organizzazioni_(COV-AP_IT)_5.png
+.. |IMG9| image:: static/Organizzazioni_(COV-AP_IT)_9.png
    :height: 117 px
    :width: 584 px
