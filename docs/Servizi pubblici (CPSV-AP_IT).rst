@@ -91,9 +91,12 @@ Descrizione della classe di contenuto \ |STYLE3|\ :
 |\ |STYLE41|\ |                                                                                                                                                                                                                                                                                                                                                                                                                                                               |Selezione (ezselection)                 |            |
 +-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+------------+
 
-Integrazione rispetto al modello CPSV-AP_IT:
 
-* \ |STYLE42|\ : va predisposto un vocabolario controllato per definire i target utenti (ad esempio: famiglia, adulto, studente, ecc..)
+..  Note:: 
+
+    Integrazione rispetto al modello CPSV-AP_IT:
+    
+    * \ |STYLE42|\ : va predisposto un vocabolario controllato per definire i target utenti (ad esempio: famiglia, adulto, studente, ecc..)
 
 Schema delle relazioni 
 
