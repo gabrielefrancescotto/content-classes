@@ -1,8 +1,8 @@
 
-.. _h30107144b58466d1039127a2a192e56:
+.. _h83f6917441512e37b2b514c04048:
 
-Punti di contatto (SM-AP_IT)
-****************************
+Social Media (SM-AP_IT)
+***********************
 
 Da completare
 
@@ -10,6 +10,13 @@ Da completare
 
 Punto di contatto on-line
 =========================
+
+Descrizione
+
+.. _h395c4e6e2c3c285e577369434622256:
+
+Immagine
+========
 
 Descrizione
 
