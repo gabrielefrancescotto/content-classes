@@ -6,5 +6,12 @@ Prezzi e offerte (POT-AP_IT)
 
 Da completare
 
+.. _h5c6d2b1e1c6c433140f45564a6f14:
+
+Offerta
+=======
+
+Descrizione
+
 
 .. bottom of content
