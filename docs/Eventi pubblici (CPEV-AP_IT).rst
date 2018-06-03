@@ -49,9 +49,9 @@ Questa classe rappresenta un evento pubblico (e.g., una partita di calcio, una m
 
 |REPLACE2|
 
-.. _h6f14538717e5103f4e344127713116:
+.. _h7179502e10563f6d4d1d7245a3f1d34:
 
-CPSV: Proposta del gruppo di lavoro JOINUP
+CPEV: Proposta del gruppo di lavoro JOINUP
 ==========================================
 
 \ |IMG1|\ 
